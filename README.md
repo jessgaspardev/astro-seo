@@ -1,4 +1,4 @@
-# astro-seo-meta
+# Astro SEO 🚀
 
 A fully-featured, zero-dependency SEO component for [Astro](https://astro.build) projects.
 
@@ -17,11 +17,11 @@ Covers everything Google, Open Graph, and Twitter/X expect:
 ## Installation
 
 ```bash
-npm install astro-seo-meta
+npm install @jessgaspar/astro-seo
 # or
-pnpm add astro-seo-meta
+pnpm add @jessgaspar/astro-seo
 # or
-yarn add astro-seo-meta
+yarn add @jessgaspar/astro-seo
 ```
 
 ---
@@ -33,7 +33,7 @@ Place the component inside the `<head>` of your base layout:
 ```astro
 ---
 // src/layouts/Layout.astro
-import SEO from "astro-seo-meta";
+import SEO from "@jessgaspar/astro-seo";
 
 export interface Props {
   title: string;

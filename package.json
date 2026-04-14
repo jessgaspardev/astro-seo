@@ -1,5 +1,5 @@
 {
-  "name": "@jessgaspar/astro-seo-meta",
+  "name": "@jessgaspar/astro-seo",
   "version": "1.0.0",
   "description": "A fully-featured SEO component for Astro with Open Graph, Twitter Cards, JSON-LD and more.",
   "type": "module",
