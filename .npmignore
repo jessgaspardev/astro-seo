@@ -1,0 +1,14 @@
+# Dev files 
+node_modules/
+*.log
+.DS_Store
+
+# Tooling
+tsconfig.json
+.eslintrc*
+.prettierrc*
+
+# Tests
+__tests__/
+*.test.*
+*.spec.*

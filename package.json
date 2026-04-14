@@ -1,0 +1,39 @@
+{
+  "name": "astro-seo-meta",
+  "version": "1.0.0",
+  "description": "A fully-featured SEO component for Astro with Open Graph, Twitter Cards, JSON-LD and more.",
+  "type": "module",
+  "main": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "astro",
+    "astro-component",
+    "seo",
+    "open-graph",
+    "twitter-card",
+    "json-ld",
+    "meta-tags"
+  ],
+  "author": "Jess Gaspar <jessgaspardev@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessgaspardev/astro-seo-meta"
+  },
+  "homepage": "https://github.com/jessgaspardev/astro-seo-meta#readme",
+  "bugs": {
+    "url": "https://github.com/jessgaspardev/astro-seo-meta/issues"
+  },
+  "peerDependencies": {
+    "astro": ">=3.0.0"
+  },
+  "devDependencies": {
+    "astro": ">=3.0.0",
+    "typescript": "^5.0.0"
+  }
+}
