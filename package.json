@@ -1,5 +1,5 @@
 {
-  "name": "astro-seo-meta",
+  "name": "@jessgaspar/astro-seo-meta",
   "version": "1.0.0",
   "description": "A fully-featured SEO component for Astro with Open Graph, Twitter Cards, JSON-LD and more.",
   "type": "module",
@@ -23,11 +23,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jessgaspardev/astro-seo-meta"
+    "url": "https://github.com/jessgaspardev/astro-seo"
   },
-  "homepage": "https://github.com/jessgaspardev/astro-seo-meta#readme",
+  "homepage": "https://github.com/jessgaspardev/astro-seo#readme",
   "bugs": {
-    "url": "https://github.com/jessgaspardev/astro-seo-meta/issues"
+    "url": "https://github.com/jessgaspardev/astro-seo/issues"
   },
   "peerDependencies": {
     "astro": ">=3.0.0"
